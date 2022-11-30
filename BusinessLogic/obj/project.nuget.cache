@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g0XC8nzIQpEefJoba90AeRbeAD00+xKDXLkSDMIZX7fXxk1j1AwBS8AObQ5SIqWKzf/ayGulpiXYjipkP3i4KA==",
+  "dgSpecHash": "rkbYqwgKRUASL39TlKbL/qXLZDeeXm0Uj5Haqff92ldnvswSQNpOKHivxschUrYm3VCNy8W0AFnzU0KvnD5QEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visua\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

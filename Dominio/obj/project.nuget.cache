@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iTZscxH3K4jj6ehsz/RsWjTJvugyjL83rMWSvXyZTphvVCGXp9/B6SCrrvnh7wONWamR4yoo9GTuDbyVpmO7tA==",
+  "dgSpecHash": "Xc4wMMr/8L40OPu3aiegjoc48abHBrOFDCsQeYdCmQganPzuwU4FktbHBfTvK5eRSLc11wUNORbf6NTOvsWV8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visua\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

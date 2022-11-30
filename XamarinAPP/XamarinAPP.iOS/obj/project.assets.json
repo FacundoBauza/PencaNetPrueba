@@ -1237,11 +1237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP.iOS\\XamarinAPP.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.iOS\\XamarinAPP.iOS.csproj",
       "projectName": "XamarinAPP.iOS",
-      "projectPath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP.iOS\\XamarinAPP.iOS.csproj",
+      "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.iOS\\XamarinAPP.iOS.csproj",
       "packagesPath": "C:\\Users\\visua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP.iOS\\obj\\",
+      "outputPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1262,8 +1262,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj": {
-              "projectPath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj"
+            "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj": {
+              "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFCy9ncmboBQtdyQra28zvjDQNzEZ3EbY7KOaFqIW535VCVWfcOiZH/BxBzyCdm4BMydlPnlXWozuyBsU+GtUQ==",
+  "dgSpecHash": "6MqxxVb9p9CjPwC8EBUiGuqqlonABeznpdCgqXpUEDJ91zV+pQaRIEaZrruaJodhlqOFxINI3P/QUGMm7jSi8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP.Android\\XamarinAPP.Android.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\XamarinAPP.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visua\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512",

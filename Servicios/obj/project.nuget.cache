@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fyvi7AxFaOesZ3bAhHTQ4o/bajzN/u2FQlvceDmUqbN2ekx9vrpwDGGl22leXWDofuFUtTeBXi0Z/DMHUDi+jg==",
+  "dgSpecHash": "7LdQzdW0exBUTGloP60x1KggJmGjXYjAG3DYI2XYB10aoWFNylEEwY9isf/vTFs4wLhuDvAnYK9e5lpvXQWJOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\Servicios\\Servicios.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Servicios\\Servicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visua\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

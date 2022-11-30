@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qmowb9pP0Vk3WiEKiKK/N8MIei1bIRT6cJ2Kj/UDPp/WpGQEmzi6uQoX3vUl+S8R3Qh8n7A0lYfq2S28TxIZSw==",
+  "dgSpecHash": "8fj0Gn10tdqhOzFb3nTk3Hx6V3Vg5o3DD0KX6aH670tEkTU4R+sjYZIJ/HNE2rH9gYP/LJt1xzd1oFmdCkAJ+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visua\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

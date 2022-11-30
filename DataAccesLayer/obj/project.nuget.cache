@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g3V+XmpUU6b83Pe4bP/OtxyTooYRJ6i3deLTYJSEr4hXkL4feRHiEjTmjXyGTPbsPae4cF6jOs9GFr2b19TazQ==",
+  "dgSpecHash": "VyJHLf1/bc5DgDm112V8qJfghVsRInFcPvnzKgAHwKEJ7BkL0fBtfx//w/RwWtGH94tCDhSAaGX+lYfKEIhfXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaN\\Penca.NET\\DataAccesLayer\\DataAccesLayer.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visua\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
