@@ -1807,7 +1807,7 @@
       },
       "XamarinAPP/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Newtonsoft.Json.Bson": "1.0.3-beta1",
           "Xamarin.Essentials": "1.7.0",
@@ -3493,11 +3493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\XamarinAPP.Android.csproj",
+      "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\XamarinAPP.Android.csproj",
       "projectName": "XamarinAPP.Android",
-      "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\XamarinAPP.Android.csproj",
+      "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\XamarinAPP.Android.csproj",
       "packagesPath": "C:\\Users\\visua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\obj\\",
+      "outputPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\XamarinAPP\\XamarinAPP.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3518,8 +3518,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj": {
-              "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj"
+            "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj": {
+              "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj"
             }
           }
         }

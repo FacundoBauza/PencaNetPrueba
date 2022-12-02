@@ -10,7 +10,7 @@ using Dominio.Entidades;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Dominio.DT;
 using System.Drawing;
-using System.Data.Entity;
+//using System.Data.Entity;
 using System.Runtime.Intrinsics.X86;
 using System.Runtime.Intrinsics.Arm;
 using System.Diagnostics.SymbolStore;

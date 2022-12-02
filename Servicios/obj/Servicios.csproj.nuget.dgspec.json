@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Servicios\\Servicios.csproj": {}
+    "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Servicios\\Servicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\visua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,14 +30,14 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj": {
-                "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj"
+              "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj": {
+                "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj"
               },
-              "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj"
+              "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -49,20 +49,16 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
-            "EntityFramework": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.4.4, )"
-            },
-            "Microsoft.AspNet.WebApi.Cors": {
-              "target": "Package",
-              "version": "[5.2.9, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -72,11 +68,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
@@ -107,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj": {
+    "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj",
         "projectName": "DataAccesLayer",
-        "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj",
+        "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\DataAccesLayer\\DataAccesLayer.csproj",
         "packagesPath": "C:\\Users\\visua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\DataAccesLayer\\obj\\",
+        "outputPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\DataAccesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -125,7 +127,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -133,11 +135,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj"
+              "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -149,20 +151,16 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
-            "EntityFramework": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.4.4, )"
-            },
-            "Microsoft.AspNet.WebApi.Cors": {
-              "target": "Package",
-              "version": "[5.2.9, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -172,11 +170,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
@@ -207,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\visua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -225,7 +229,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -233,8 +237,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -245,14 +249,20 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNet.WebApi.Cors": {
               "target": "Package",
               "version": "[5.2.9, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
             },
@@ -281,14 +291,14 @@
         }
       }
     },
-    "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Servicios\\Servicios.csproj": {
+    "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Servicios\\Servicios.csproj",
+        "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Servicios\\Servicios.csproj",
         "packagesPath": "C:\\Users\\visua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Servicios\\obj\\",
+        "outputPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -299,7 +309,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -307,14 +317,14 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\Dominio\\Dominio.csproj"
+              "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -326,24 +336,16 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNet.WebApi.Cors": {
-              "target": "Package",
-              "version": "[5.2.9, )"
-            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.0.10, )"
-            },
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -353,11 +355,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",

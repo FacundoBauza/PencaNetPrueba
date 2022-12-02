@@ -1,11 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "8fj0Gn10tdqhOzFb3nTk3Hx6V3Vg5o3DD0KX6aH670tEkTU4R+sjYZIJ/HNE2rH9gYP/LJt1xzd1oFmdCkAJ+w==",
+  "dgSpecHash": "G3Z/bqBoTeStUfyh3nvZRujG/uBOMqpfRAbUJ0FD/3Pc2XSKzh3/+lTaLcg1z8ackIOEe07ZfH7H1YKn+qAvUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaDes\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj",
+  "projectFilePath": "C:\\Users\\visua\\Desktop\\PencaNetPrueba\\XamarinAPP\\XamarinAPP\\XamarinAPP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\visua\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\visua\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512",
     "C:\\Users\\visua\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
